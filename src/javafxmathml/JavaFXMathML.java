@@ -10,7 +10,6 @@ import javafx.scene.Scene;
 import javafx.scene.web.HTMLEditor;
 import javafx.scene.web.WebView;
 import javafx.stage.Stage;
-import org.w3c.dom.Document;
 
 /**
  *
@@ -1161,6 +1160,7 @@ public class JavaFXMathML extends Application {
             + "	       <mrow>"
             + "               <mroot>"
             + "    	            <mn>16</mn>"
+            + "                     <mn>3</mn>"
             + "               </mroot>"
             + "            </mrow>"
             + "         </math>"
@@ -1208,5 +1208,5 @@ class myHTMLEditor extends HTMLEditor {
     protected void layoutChildren() {
         super.layoutChildren(); //To change body of generated methods, choose Tools | Templates.
     }
-
 }
+
