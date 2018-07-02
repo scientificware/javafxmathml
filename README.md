@@ -4,6 +4,8 @@ Exportation prévue aux formats MathML, LaTeX, TeXmacs.
 
 - Une première étape vient d'être franchie.
 L'affichage des expressions mathématiques est réparé. Le travail que j'ai mené fait l'objet d'un rapport sur le dépôt d'OpenJFX :  [JavaFX and MathML #71](https://github.com/javafxports/openjdk-jfx/issues/71)
+- Si l'affichage est réparé mais l'éditeur n'est pas encore capable de gérer les signes mathématiques, ni le expressions mathématiques. C'est l'objet de ma deuxième étape de travail. Document à consulter [W3C The Editing taskforce](http://w3c.github.io/editing/).
+
 
 ## Maintenant :
 (à gauche le rendu par TEX et à droite le rendu par JavaFXMathML)
