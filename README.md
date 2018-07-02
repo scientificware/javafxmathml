@@ -9,7 +9,7 @@ Maintenant : (à gauche le rendu par TEX et à droite le rendu par JavaFXMathML)
 
 ![Capture d'écran de JavaFXMathML](/images/Screenshot_20180619_191413.png)
 
-[Capture d'écran de JavaFXMathML](/images/Screenshot_20180619_191413.png)
+![Capture d'écran de JavaFXMathML](/images/Screenshot_20180702_040429.png)
 
 Avant :
 
