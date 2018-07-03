@@ -6,7 +6,9 @@ Exportation prévue aux formats MathML, LaTeX, TeXmacs.
 L'affichage des expressions mathématiques est réparé. Le travail que j'ai mené fait l'objet :
   - d'un rapport sur le dépôt d'OpenJFX :  [JavaFX and MathML #71](https://github.com/javafxports/openjdk-jfx/issues/71)
   - mais aussi d'une proposition de correction [JDK-8147476 : Rendering issues with MathML token elements. #117](https://github.com/javafxports/openjdk-jfx/pull/117). Cette proposition devrait être intégrée dans OpenJFX 11 en septembre 2018.
-- L'affichage est réparé mais l'éditeur n'est pas encore capable de gérer les signes mathématiques, ni le expressions mathématiques. C'est l'objet de ma deuxième étape de travail. Document à consulter [W3C The Editing taskforce](http://w3c.github.io/editing/).
+- L'affichage est réparé mais l'éditeur n'est pas encore capable de gérer les signes mathématiques, ni le expressions mathématiques. C'est l'objet de ma deuxième étape de travail.
+  - Rapport sur le dépôt d'OpenJFX [HTMLEditor and MathML. #118](https://github.com/javafxports/openjdk-jfx/issues/118).
+  - Document à consulter [W3C The Editing taskforce](http://w3c.github.io/editing/).
 
 
 ## Maintenant :
