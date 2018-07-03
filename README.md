@@ -12,7 +12,7 @@ L'affichage des expressions mathématiques est réparé. Le travail que j'ai men
 
 
 ## Maintenant :
-![screenshot_20180703_125433](https://user-images.githubusercontent.com/19194678/42216096-e7b632d8-7ec0-11e8-81df-e37eb6bfd3a5.png)
+![screenshot_20180703_135132](https://user-images.githubusercontent.com/19194678/42218308-712a3148-7ec8-11e8-9fc9-c786ddbb16ca.png)
 
 (à gauche le rendu par TEX et à droite le rendu par JavaFXMathML)
 
